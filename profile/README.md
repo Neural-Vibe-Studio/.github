@@ -1,3 +1,4 @@
+<img width="1062" height="887" alt="NVS_Logo" src="https://github.com/user-attachments/assets/3890e712-4aaf-4f3e-85e3-83afcbe15e05" />
 # Neural Vibe Studio
 
 **CREATIVE TECHNOLOGY**
